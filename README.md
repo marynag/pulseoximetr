@@ -1,4 +1,4 @@
-# pulseoximetr
+# Pulse Oximetr
 Implementation of devices for measuring heart rate and saturation
 
 Pulse oximeter is a medical control and diagnostic device for measuring the level of oxygen saturation of capillary blood. This device allows you to measure heart rate and saturation level from a photoplethysmogram.
